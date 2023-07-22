@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Ford Anglia
+* source:	https://sketchfab.com/3d-models/flying-ford-anglia-b8dddbb9fee04ce387dcfe4fe972ed09
+* author:	Artur Coelho (https://sketchfab.com/coelhoelectrico)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Ford Anglia" (https://sketchfab.com/3d-models/flying-ford-anglia-b8dddbb9fee04ce387dcfe4fe972ed09) by Artur Coelho (https://sketchfab.com/coelhoelectrico) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

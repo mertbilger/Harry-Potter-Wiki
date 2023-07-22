@@ -1,0 +1,11 @@
+Model Information:
+* title:	Harry Potter forms and details
+* source:	https://sketchfab.com/3d-models/harry-potter-forms-and-details-3b48b869e5a7440fb2eb94e9bf33a303
+* author:	Kate Abaeva (https://sketchfab.com/kate.petris)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Harry Potter forms and details" (https://sketchfab.com/3d-models/harry-potter-forms-and-details-3b48b869e5a7440fb2eb94e9bf33a303) by Kate Abaeva (https://sketchfab.com/kate.petris) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
